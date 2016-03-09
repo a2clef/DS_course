@@ -1,0 +1,14 @@
+﻿Build started 2015/10/31 0:03:55.
+     1>Project "H:\code\DS_Port\Job_1_4\Job_1_4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Job_1_4.cpp
+         Job_1_4.cpp
+     1>h:\code\ds_port\job_1_4\job_1_4.cpp(15): warning C4091: 'typedef ' : ignored on left of 'S' when no variable is declared
+     1>h:\code\ds_port\job_1_4\job_1_4.cpp(48): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>h:\code\ds_port\job_1_4\job_1_4.cpp(188): error C2181: illegal else without matching if
+     1>Done Building Project "H:\code\DS_Port\Job_1_4\Job_1_4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.96
